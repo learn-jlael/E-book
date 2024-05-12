@@ -878,7 +878,7 @@ body.dark-theme{
   .search-close,
   .login-close{
     width: max-content;
-    top: 4rem;
+    top: 3rem;
     left: 0;
     right: 0;
     margin-inline: auto;
